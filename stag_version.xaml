@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.0",
-  "apk_url": "https://github.com/Killer1504/ids-docs/releases/download/1.1.0/app-stag-release.apk",
+  "latest_version": "1.1.2",
+  "apk_url": "https://github.com/Killer1504/ids-docs/releases/download/1.1.2/app-stag-release.apk",
   "force_update": false,
   "changelog": "🆕 Added dark mode\n🐞 Fixed login bug",
-  "sha256": "6fd7451c72983674cd099e06889e3db97f42e91c0f1d2417714a84da385c938e"
+  "sha256": "d4e3c4dd8a81c488ea746e9bd3637351ae471524f2f2337b536b18fbe67e0a09"
 }
