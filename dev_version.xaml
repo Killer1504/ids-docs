@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.2",
-  "apk_url": "https://github.com/Killer1504/ids-docs/releases/download/1.1.2/app-dev-release.apk",
+  "latest_version": "1.1.6",
+  "apk_url": "https://github.com/Killer1504/ids-docs/releases/download/1.1.6/app-dev-release.apk",
   "force_update": false,
   "changelog": "🆕 Added dark mode\n🐞 Fixed login bug",
-  "sha256": "68d3bfac323388b2fa64b6174a35dedc270250e2bda5a88ae5bd094256511568"
+  "sha256": "ecffba3bfb7ae386bd5ecd7403d47b2acb6daefa4d20eb561d2aa38d34f94bee"
 }
